@@ -7,7 +7,11 @@ h1{
  padding-left:500px;
  float:center;
  font-style: italic;
- color:rgb(144,12,63);;
+ color:rgb(144,12,63);
+}
+#titulo{
+ font-style:italic;
+ color:rgb( 99, 6, 124);
 }
 #datosPerso{
  padding-top:7px;
@@ -15,7 +19,7 @@ h1{
  font-size:13px;
 }
 #objetivo{
- font-size:15px;
+ font-size:14px;
  padding-right:300px;
  padding-left:300px;
 }
@@ -24,11 +28,14 @@ table{
  padding-left:150px;
 }
 td{
- font-size:15px;
+ font-size:14px;
  width:480px;
  padding-bottom:25px;
  padding-left:120px;
 }
 #alinear{
- padding-bottom:90px
+ padding-bottom:90px;
+}
+hr{
+ color:rgb(144,12,63);
 }
